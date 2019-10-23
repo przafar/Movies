@@ -1,0 +1,108 @@
+/*----------------header-start----------------*/
+nav ul {
+	display: inline-block;
+	padding-left: 0;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.logo {
+	margin-right: 120px;
+}
+.nav li {
+	display: inline-table;
+	margin-left: 45px;
+}
+.contact li {
+	display: inline-block;
+}
+.contact {
+	margin-left: 120px;
+}
+.contact p {
+	padding-left: 6px;
+	font-family: AdobeGothicStd;
+	font-weight: bold;
+	font-size: 15px;
+	color: #3f444e;
+}
+.contact i {
+	font-size: 15px;
+	color: #3f444e;
+	padding-left: 6px;
+}
+/*----------------header-end----------------*/
+
+
+/*----------------section-start----------------*/
+.banner {
+	background-image: url(../img/background.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.james img {
+	margin: 200px 0;
+}
+.watch button {
+	margin-top: 340px;
+	margin-left: 220px;
+	margin-bottom: 110px;
+	background-color: #d8232a;
+	font-family: AdobeGothicStd;
+	text-transform: uppercase;
+	font-size: 14px;
+	border-radius: 6px;
+	border: 1px solid #d8232a;
+	color: #fff;
+	padding: 10px 15px;
+	font-weight: bold;
+}
+.publish ul {
+	display: inline-block;
+	padding-left: 0;
+	padding-top: 25px;
+}
+.publish li {
+	display: inline-block;
+}
+.published {
+	background: rgba(45, 45, 45, 0.5);
+}
+.movie-info {
+	float: left;
+}
+.movie-info p {
+	margin-right: 8px;
+	color: #fff;
+	font-family: AdobeGothicStd;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.movie-info a {
+	margin-right: 25px;
+	color: #d8232a;
+	font-family: AdobeGothicStd;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.movie-info i {
+	color: #d8232a;
+	font-size: 14px;
+}
+.movie-status {
+	float: right;
+}
+.movie-status i {
+	color: #d8232a;
+	font-size: 14px;
+}
+.movie-status a {
+	margin-right: 25px;
+	margin-left: 8px;
+	color: #fff;
+	font-family: AdobeGothicStd;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/*----------------section-end----------------*/

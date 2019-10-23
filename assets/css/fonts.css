@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'AdobeGothicStd';
+  src: url('../fonts/AdobeGothicStd-Bold.eot');
+  src: url('../fonts/AdobeGothicStd-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'calibri';
+  src: url('../fonts/calibri.eot');
+  src: url('../fonts/calibri.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'calibrib';
+  src: url('../fonts/calibrib.eot');
+  src: url('../fonts/calibrib.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'calibrii';
+  src: url('../fonts/calibrii.eot');
+  src: url('../fonts/calibrii.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'calibriz';
+  src: url('../fonts/calibriz.eot');
+  src: url('../fonts/calibriz.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
